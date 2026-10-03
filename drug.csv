@@ -1,0 +1,16 @@
+Drug_ID,Drug_Name,Batch_No,Category,Quantity,Manufacture_Date,Expiry_Date
+D001,Paracetamol 500mg,B1001,Tablet,150,2025-02-15,2027-02-15
+D002,Amoxicillin 250mg,B1002,Capsule,75,2024-12-10,2026-08-15
+D003,Ibuprofen 400mg,B1003,Tablet,90,2025-01-20,2026-07-25
+D004,Vitamin C Syrup,B1004,Syrup,30,2025-06-05,2026-09-10
+D005,Metformin 500mg,B1005,Tablet,200,2025-03-01,2028-03-01
+D006,Ceftriaxone 1g,B1006,Injection,50,2025-04-18,2026-08-02
+D007,Oral Rehydration Salts,B1007,Powder,120,2025-05-12,2026-12-31
+D008,Insulin,B1008,Injection,20,2025-07-01,2026-08-01
+D009,Aspirin 75mg,B1009,Tablet,180,2025-03-15,2027-03-15
+D010,Omeprazole 20mg,B1010,Capsule,95,2025-01-10,2026-10-10
+D011,Cetirizine 10mg,B1011,Tablet,110,2025-02-20,2027-02-20
+D012,Salbutamol Inhaler,B1012,Inhaler,40,2025-04-05,2027-04-05
+D013,Azithromycin 500mg,B1013,Tablet,60,2025-06-01,2026-08-20
+D014,Hydrocortisone Cream,B1014,Cream,35,2025-05-18,2026-11-18
+D015,Diclofenac Gel,B1015,Gel,45,2025-03-22,2027-03-22
